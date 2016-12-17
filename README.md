@@ -1,5 +1,5 @@
 # PoSideMenu
-A react-native side menu /一个点击按钮侧滑缩小主界面显示菜单栏的组件
+A react-native side menu /侧滑显示菜单栏的抽屉组件，具有缩小效果，不支持手势
 
 you can use the PoSideMenu like this: copy the PoSideMenu.js to your project, and then import it. If you really don't known how to use it, you can download the PoSideMenuDemo to get it!
 
